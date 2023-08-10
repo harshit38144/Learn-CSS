@@ -1,0 +1,13 @@
+body{
+    font-size: 24px;
+    font-family: Arial;
+    text-align: center;
+    color: #eae0d5;
+    background-color: #0a0908;
+}
+
+article{
+    background-color: #8d99ae;
+    padding: 40px;
+    margin: 40px;
+}
